@@ -1,0 +1,8 @@
+{
+  "name": " Hydro Control Manager",
+  "description": "تطبيق إدارة عملاء ومواعيد شركة Hydro Control المتخصصة في كشف تسريبات المياه مع إشعارات تذكير قبل الزيارة بـ 12 ساعة وقاعدة بيانات محلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
